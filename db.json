@@ -16,14 +16,6 @@
         "JSON",
         "API",
         "Liquid"
-      ],
-      "imgs": [
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0085/1827/1047/t/2/assets/home-models.jpg?3790"
-        },
-        {
-          "src": ""
-        }
       ]
     },
     {
@@ -37,14 +29,6 @@
         "CSS",
         "JavaScript",
         "Webflow"
-      ],
-      "imgs": [
-        {
-          "src": ""
-        },
-        {
-          "src": ""
-        }
       ]
     },
     {
@@ -58,14 +42,6 @@
         "React.js",
         "Node.js",
         "Third Party API"
-      ],
-      "imgs": [
-        {
-          "src": ""
-        },
-        {
-          "src": ""
-        }
       ]
     },
     {
@@ -77,14 +53,6 @@
         "Socket.io",
         "",
         ""
-      ],
-      "imgs": [
-        {
-          "src": ""
-        },
-        {
-          "src": ""
-        }
       ]
     },
     {
@@ -96,14 +64,6 @@
         "",
         "",
         ""
-      ],
-      "imgs": [
-        {
-          "src": ""
-        },
-        {
-          "src": ""
-        }
       ]
     },
     {
@@ -115,14 +75,6 @@
         "HTML",
         "CSS",
         "JavaScript"
-      ],
-      "imgs": [
-        {
-          "src": ""
-        },
-        {
-          "src": ""
-        }
       ]
     }
   ]
