@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Freck Beauty",
-      "description": "Using customer data provided by our eCommerce platform and Google Analytics, I collaborated with Freck's Brand Director to improve the UX design of Freck's eCommerce app and build mobile-friendly wireframes. After many iterations and prototypes, from integrating a React front-end framework, which connected to the WooCommerce REST API, to finally migrating Freck's eCommerce platform from WooCommerce to Shopify in order to take advantage of their Liquid codebase, allowing a more seamless integration of AJAX and JavaScript. The result: a faster website, quicker checkout experience, happier users, and more sales.<br/>This is a test.",
+      "description": "Using customer data provided by our eCommerce platform and Google Analytics, I collaborated with Freck's Brand Director to improve the UX design of Freck's eCommerce app and build mobile-friendly wireframes. After many iterations and prototypes, from integrating a React front-end framework, which connected to the WooCommerce REST API, to finally migrating Freck's eCommerce platform from WooCommerce to Shopify in order to take advantage of their Liquid codebase, allowing a more seamless integration of AJAX and JavaScript. The result: a faster website, quicker checkout experience, happier users, and more sales.",
       "endpoint": "/freck-beauty",
       "technologies": [
         "HTML",
