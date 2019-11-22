@@ -51,7 +51,7 @@
       "name": "game.it",
       "description": "Working with three other students in my Web Development Immersive at General Assembly, we built a social media application that allows users to build a library of their favorite videogames and connect via chat with other users who play them.",
       "url": "https://game-it.herokuapp.com/",
-      "img": "https://i.imgur.com/pNuLbL8.jpg",
+      "img": "https://i.imgur.com/XpEpuk3.png",
       "technologies": [
         "Socket.io, ",
         "MongoDB, ",
