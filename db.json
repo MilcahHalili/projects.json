@@ -6,15 +6,15 @@
       "description": "Using customer data provided by our eCommerce platform and Google Analytics, I collaborated with Freck's Brand Director to improve the UX design of Freck's eCommerce app and build mobile-friendly wireframes. After many iterations and prototypes, from integrating a React front-end framework, which connected to the WooCommerce REST API, to finally migrating Freck's eCommerce platform from WooCommerce to Shopify in order to take advantage of their Liquid codebase, allowing a more seamless integration of AJAX and JavaScript. The result: a faster website, quicker checkout experience, happier users, and more sales.",
       "url": "https://freckbeauty.com/",
       "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "PHP",
-        "React.js",
-        "Next.js",
-        "Node.js",
-        "JSON",
-        "API",
+        "HTML, ",
+        "CSS, ",
+        "JavaScript, ",
+        "PHP, ",
+        "React.js, ",
+        "Next.js, ",
+        "Node.js, ",
+        "JSON, ",
+        "API, ",
         "Liquid"
       ]
     },
@@ -24,9 +24,9 @@
       "description": "Working with Softcore Studio's brand guidlines, I built a static website for a remote client to showcase their services and allow potential clients to connect with them via contact forms and an embedded third-party scheduling app.",
       "url": "https://www.babesinthebiz.com/",
       "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript",
+        "HTML, ",
+        "CSS, ",
+        "JavaScript, ",
         "Webflow"
       ]
     },
@@ -36,10 +36,10 @@
       "description": "A visually appealing database of cannabis strains with a form for users to upload new strains.",
       "url": "https://flwr-app.herokuapp.com/",
       "technologies": [
-        "MongoDB",
-        "Express",
-        "React.js",
-        "Node.js",
+        "MongoDB, ",
+        "Express, ",
+        "React.js, ",
+        "Node.js, ",
         "Third Party API"
       ]
     },
@@ -49,9 +49,10 @@
       "description": "Working with three other students in my Web Development Immersive at General Assembly, we built a social media application that allows users to build a library of their favorite videogames and connect via chat with other users who play them.",
       "url": "https://game-it.herokuapp.com/",
       "technologies": [
-        "Socket.io",
-        "",
-        ""
+        "Socket.io, ",
+        "MongoDB, ",
+        "Express, ",
+        "Node.js, "
       ]
     },
     {
@@ -60,7 +61,7 @@
       "description": "https://burstbook.herokuapp.com/",
       "url": "/burst-book",
       "technologies": [
-        "",
+        "Ruby on Rails",
         "",
         ""
       ]
@@ -71,8 +72,8 @@
       "description": "I built a classic memory game with HTML, CSS, and JavaScript for my Web Development Immersive with General Assembly.",
       "url": "https://github.com/MilcahHalili/Simon",
       "technologies": [
-        "HTML",
-        "CSS",
+        "HTML, ",
+        "CSS, ",
         "JavaScript"
       ]
     }
