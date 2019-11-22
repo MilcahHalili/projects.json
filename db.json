@@ -47,7 +47,7 @@
       "id": 3,
       "name": "game.it",
       "description": "Working with three other students in my Web Development Immersive at General Assembly, we built a social media application that allows users to build a library of their favorite videogames and connect via chat with other users who play them.",
-      "url": "/game-it",
+      "url": "https://game-it.herokuapp.com/",
       "technologies": [
         "Socket.io",
         "",
@@ -57,7 +57,7 @@
     {
       "id": 4,
       "name": "Burst Book",
-      "description": "",
+      "description": "https://burstbook.herokuapp.com/",
       "url": "/burst-book",
       "technologies": [
         "",
@@ -69,7 +69,7 @@
       "id": 5,
       "name": "Simon",
       "description": "I built a classic memory game with HTML, CSS, and JavaScript for my Web Development Immersive with General Assembly.",
-      "url": "/simon",
+      "url": "https://github.com/MilcahHalili/Simon",
       "technologies": [
         "HTML",
         "CSS",
