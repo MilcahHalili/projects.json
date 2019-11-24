@@ -35,7 +35,7 @@
     {
       "id": 2,
       "name": "Flwr",
-      "description": "A visually appealing database of cannabis strains with a form for users to upload new strains. To test out the app, please use the following credentials: email: test@test.com, password: test.",
+      "description": "A visually appealing database of cannabis strains with a form for users to upload new strains. To test out the app, please use the following credentials: Email: test@test.com, Password: test.",
       "url": "https://flwr-app.herokuapp.com/",
       "img": "https://i.imgur.com/nq2ofLb.png",
       "technologies": [
