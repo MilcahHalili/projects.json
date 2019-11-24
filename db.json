@@ -62,13 +62,14 @@
     {
       "id": 4,
       "name": "Burst Book",
-      "description": "https://burstbook.herokuapp.com/",
-      "url": "/burst-book",
+      "description": "An eCommerce app that allows its users to upload multiple images and create a custom flip book for purchase.",
+      "url": "https://burstbook.herokuapp.com/",
       "img": "https://i.imgur.com/J9bkwvJ.png",
       "technologies": [
-        "Ruby on Rails",
-        "",
-        ""
+        "Ruby on Rails, ",
+        "PostgreSQL, ",
+        "HTML, ",
+        "CSS"
       ]
     },
     {
