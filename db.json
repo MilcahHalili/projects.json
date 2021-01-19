@@ -34,33 +34,6 @@
     },
     {
       "id": 2,
-      "name": "Flwr",
-      "description": "A visually appealing database of cannabis strains with a form for users to upload new strains. To test out the app, please use the following credentials: Email: test@test.com, Password: test.",
-      "url": "https://flwr-app.herokuapp.com/",
-      "img": "https://i.imgur.com/nq2ofLb.png",
-      "technologies": [
-        "MongoDB, ",
-        "Express, ",
-        "React.js, ",
-        "Node.js, ",
-        "Third Party API"
-      ]
-    },
-    {
-      "id": 3,
-      "name": "game.it",
-      "description": "Working with three other students in my Web Development Immersive at General Assembly, we built a social media application that allows users to build a library of their favorite videogames and connect via chat with other users who play them.",
-      "url": "https://game-it.herokuapp.com/",
-      "img": "https://i.imgur.com/VRn4S5N.png",
-      "technologies": [
-        "Socket.io, ",
-        "MongoDB, ",
-        "Express, ",
-        "Node.js, "
-      ]
-    },
-    {
-      "id": 4,
       "name": "Burst Book",
       "description": "An eCommerce app that allows its users to upload multiple images and create a custom flip book for purchase.",
       "url": "https://burstbook.herokuapp.com/",
@@ -73,7 +46,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 3,
       "name": "Simon",
       "description": "I built a classic memory game with HTML, CSS, and JavaScript for my Web Development Immersive with General Assembly.",
       "url": "https://github.com/MilcahHalili/Simon",
